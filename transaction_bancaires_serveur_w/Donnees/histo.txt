@@ -1,0 +1,13 @@
+123->->retrait->->200->->succes->->positif
+123->->retrait->->100->->succes->->negatif
+123->->retrait->->50->->succes->->negatif
+123->->ajout->->200->->succes->->positif
+13->->ajout->->500->->succes->->positif
+123->->ajout->->150->->succes->->positif
+123->->ajout->->150->->succes->->positif
+123->->retrait->->200->->succes->->positif
+123->->retrait->->200->->succes->->positif
+55->->ajout->->200->->echec->->positif
+55->->retrait->->200->->echec->->positif
+123->->ajout->->500->->succes->->positif
+55->->ajout->->500->->echec->->positif
